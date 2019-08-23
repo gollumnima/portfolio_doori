@@ -20,7 +20,6 @@ const Main = () => {
           <BtnWrapper>
             <Btn>Contact Me</Btn>
           </BtnWrapper>
-          <Img></Img>
         </MainWrapper>
       </PageWrapper>
     </>
@@ -68,8 +67,4 @@ const Small = styled.p`
 const BtnWrapper = styled.div`
   margin-top: 2%;
   margin-left: 5%;
-`;
-
-const Img = styled.div`
-  background-image: url("./dooreplay.png");
 `;

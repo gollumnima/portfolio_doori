@@ -8,6 +8,7 @@ const Btn = styled.button`
   border: 3px solid #575757;
   border-radius: 5%;
   background-color: #f4f3f3;
+  text-align: center;
 `;
 
 export default Btn;
